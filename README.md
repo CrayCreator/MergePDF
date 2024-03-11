@@ -21,3 +21,6 @@ There are 2 ways to use this siftware
 ## Using the Executable
 1) Download the EXE file 
 2) Follow the basic steps
+
+
+This is my copy of the public project 
